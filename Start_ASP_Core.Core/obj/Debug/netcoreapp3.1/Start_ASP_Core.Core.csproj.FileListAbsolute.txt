@@ -1,0 +1,29 @@
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/bin/Debug/netcoreapp3.1/Start_ASP_Core.Core.deps.json
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/bin/Debug/netcoreapp3.1/Start_ASP_Core.Core.dll
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/bin/Debug/netcoreapp3.1/Start_ASP_Core.Core.pdb
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.csproj.AssemblyReference.cache
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.AssemblyInfoInputs.cache
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.AssemblyInfo.cs
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.csproj.CoreCompileInputs.cache
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.dll
+C:/Users/USER/OneDrive/Máy tính/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.pdb
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/bin/Debug/netcoreapp3.1/Start_ASP_Core.Core.deps.json
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/bin/Debug/netcoreapp3.1/Start_ASP_Core.Core.dll
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/bin/Debug/netcoreapp3.1/Start_ASP_Core.Core.pdb
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.csproj.AssemblyReference.cache
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.AssemblyInfoInputs.cache
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.AssemblyInfo.cs
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.dll
+/Users/admin/Downloads/Start_ASP_Core/Start_ASP_Core.Core/obj/Debug/netcoreapp3.1/Start_ASP_Core.Core.pdb
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\bin\Debug\netcoreapp3.1\Start_ASP_Core.Core.deps.json
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\bin\Debug\netcoreapp3.1\Start_ASP_Core.Core.dll
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\bin\Debug\netcoreapp3.1\Start_ASP_Core.Core.pdb
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\obj\Debug\netcoreapp3.1\Start_ASP_Core.Core.csproj.AssemblyReference.cache
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\obj\Debug\netcoreapp3.1\Start_ASP_Core.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\obj\Debug\netcoreapp3.1\Start_ASP_Core.Core.AssemblyInfoInputs.cache
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\obj\Debug\netcoreapp3.1\Start_ASP_Core.Core.AssemblyInfo.cs
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\obj\Debug\netcoreapp3.1\Start_ASP_Core.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\obj\Debug\netcoreapp3.1\Start_ASP_Core.Core.dll
+C:\Users\Nguyen Cong Chi\Downloads\Start_ASP_Core\Start_ASP_Core.Core\obj\Debug\netcoreapp3.1\Start_ASP_Core.Core.pdb

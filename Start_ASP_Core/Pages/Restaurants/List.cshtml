@@ -1,0 +1,54 @@
+﻿@page
+@model Start_ASP_Core.Pages.Restaurants.ListModel
+@{
+}
+
+<h1> Restaurants </h1>
+
+
+  <!-- Building search form -->
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control"  value="" name="searchTearm"/>
+            <span class="input-group-btn">
+                <button class="btn btn-block">
+                    <i class="glyphicon glyphicon-search"> Search </i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+
+
+<!-- Display Table Of Restaurants -->
+
+<table class="table">
+
+    @foreach(var restaurant in Model.Restaurants)
+            {
+    <tr>
+        <td> @restaurant.Name </td>
+        <td> @restaurant.Location </td>
+        <td> @restaurant.Cuisine </td>
+        <td>
+            <a class="btn btn-lg"
+               asp-page="./Details" asp-route-restaurantsID ="@restaurant.Id">
+                <!-- Khi nhấn button thì link đến trang Details -->
+                <i class="btn btn-danger"> search </i>
+            </a>
+
+            <a class="btn btn-lg"
+               asp-page="./Edit" asp-route-restaurantsID ="@restaurant.Id">
+                <!-- Khi nhấn button thì link đến trang Details -->
+                <i class="btn btn-danger"> edit </i>
+            </a>
+        </td>
+
+    </tr>
+            }
+</table>
+
+<div> @Model.Message </div>
