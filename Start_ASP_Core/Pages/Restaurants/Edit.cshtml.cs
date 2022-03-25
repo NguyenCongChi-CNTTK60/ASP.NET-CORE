@@ -13,7 +13,7 @@ namespace Start_ASP_Core.Pages.Restaurants
     public class EditModel : PageModel
     {
 
-        [BindProperty]
+        [BindProperty]    
         public Restaurant Restaurant { get; set; }     // chua cac thuoc tinh name, id ...
 
         // Fetching restaurants by ID 
@@ -60,9 +60,16 @@ namespace Start_ASP_Core.Pages.Restaurants
 
         public IActionResult OnPost()
         {
-           Restaurant = restaurantsData.Update(Restaurant);
-           restaurantsData.Commit();
-           return Page();
+
+            if (ModelState.IsValid)
+            {
+                Restaurant = restaurantsData.Update(Restaurant);
+                restaurantsData.Commit();
+                return RedirectToPage("./Details", new { restaurantsID = Restaurant.Id });
+            }
+
+            Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();  // load again data in selection
+            return Page();
            // return 0;
             
         }

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj",
       "projectName": "Start_ASP_Core.Data",
-      "projectPath": "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj",
+      "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj",
       "packagesPath": "C:\\Users\\Nguyen Cong Chi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Data\\obj\\",
+      "outputPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nguyen Cong Chi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj": {
-              "projectPath": "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj"
+            "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj": {
+              "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj",
       "projectName": "Start_ASP_Core.Core",
-      "projectPath": "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj",
+      "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj",
       "packagesPath": "C:\\Users\\Nguyen Cong Chi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nguyen Cong Chi\\Desktop\\Start_ASP_Core\\Start_ASP_Core.Core\\obj\\",
+      "outputPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nguyen Cong Chi\\AppData\\Roaming\\NuGet\\NuGet.Config",
