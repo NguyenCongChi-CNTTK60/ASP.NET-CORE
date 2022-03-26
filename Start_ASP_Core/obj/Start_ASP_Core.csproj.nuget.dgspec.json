@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core\\Start_ASP_Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj",
+        "projectName": "Start_ASP_Core.Core",
+        "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Cong Chi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Cong Chi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj",
+        "projectName": "Start_ASP_Core.Data",
+        "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Cong Chi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Cong Chi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj": {
+                "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Core\\Start_ASP_Core.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core\\Start_ASP_Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core\\Start_ASP_Core.csproj",
+        "projectName": "Start_ASP_Core",
+        "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core\\Start_ASP_Core.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Cong Chi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Cong Chi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj": {
+                "projectPath": "C:\\Users\\Nguyen Cong Chi\\Downloads\\Start_ASP_Core\\Start_ASP_Core.Data\\Start_ASP_Core.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

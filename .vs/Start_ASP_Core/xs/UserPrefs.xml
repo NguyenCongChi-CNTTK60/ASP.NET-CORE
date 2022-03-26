@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C997F215-E0F8-40D7-8497-D79229961557}|Default">
+  <MonoDevelop.Ide.ItemProperties.Start__ASP__Core PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Start_ASP_Core/Pages/Restaurants/Edit.cshtml.cs">
+    <Files>
+      <File FileName="Start_ASP_Core/Startup.cs" Line="62" Column="1" IsPinned="True" />
+      <File FileName="Start_ASP_Core/Program.cs" IsPinned="True" />
+      <File FileName="Start_ASP_Core/Pages/Restaurants/NotFound.cshtml" Line="7" Column="14" IsPinned="True" />
+      <File FileName="Start_ASP_Core/Pages/Restaurants/List.cshtml" Line="43" Column="34" />
+      <File FileName="Start_ASP_Core/Pages/Restaurants/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Start_ASP_Core/Pages/Restaurants/Edit.cshtml" Line="1" Column="28" />
+      <File FileName="Start_ASP_Core/Pages/Restaurants/Edit.cshtml.cs" Line="31" Column="65" />
+      <File FileName="Start_ASP_Core/Pages/Restaurants/Details.cshtml.cs" Line="24" Column="1" />
+      <File FileName="Start_ASP_Core.Data/IRestaurantsData.cs" Line="36" Column="15" />
+      <File FileName="Start_ASP_Core.Core/CuisineType.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Start_ASP_Core" expanded="True">
+            <Node name="Start_ASP_Core" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Start_ASP_Core.Core" expanded="True" />
+            <Node name="Start_ASP_Core.Data" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
